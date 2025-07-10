@@ -20,5 +20,4 @@ Who's That Pokémon is a simple and fun browser-based guessing game where player
 - CSS
 
 ## Credits
-Inspired by the original "Who's That Pokémon?" TV segment and uses official sprite images from the PokéAPI:
-- https://github.com/PokeAPI/sprites
+
