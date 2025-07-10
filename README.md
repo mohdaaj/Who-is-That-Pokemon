@@ -6,7 +6,7 @@ Who's That Pokémon is a simple and fun browser-based guessing game where player
 ## How to Get Started
 1. Clone the repository or download the files.
 2. Open `index.html` in your browser to start the game.
-. Guess the correct Pokémon by clicking the right name!
+3. Guess the correct Pokémon by clicking the right name!
 
 ## How to Play
 - A Pokémon image will appear with four possible names.
